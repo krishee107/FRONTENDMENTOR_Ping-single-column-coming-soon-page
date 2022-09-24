@@ -61,7 +61,8 @@ header {padding-top: 2%;}
     font-weight: 600;
     font-size: 11px;
     width: 30%;
-    cursor: pointer;
+    cursor: pointer;   
+    box-shadow: 2px 5px 9px 1px rgb(57 75 84 / 8%)
 }
 
 #notifyMe button:hover {
